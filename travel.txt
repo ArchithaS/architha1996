@@ -4,3 +4,4 @@ russia
 USA
 denmark
 london
+paris
